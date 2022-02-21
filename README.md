@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sanoj</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India 🇮🇳 , currently living in Mohali (Punjab)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanojsharma&label=Profile%20views&color=0e75b6&style=flat" alt="sanojsharma" /> </p>
 
-- 🌱 I’m currently learning **reactjs, next js**
+
+- 🌱 I’m currently learning **Reactjs, Next js**
+
+- 💬 Ask me about **Affilaite Marketing Tools, Tracking Engines Like HasOffer.**
 
 - 📫 How to reach me **sanojsharma88@gmail.com**
 
